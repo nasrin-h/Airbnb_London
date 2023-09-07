@@ -4,7 +4,7 @@
 
 ### Data Information
 
-* Data: London Airbnb Data sourced from Kaggle
+* Data source: Kaggle.com
 * Data Visualisation: Tableau
 
 ### Key Insights 
