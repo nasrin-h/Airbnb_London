@@ -17,4 +17,4 @@
   
 * Listings in Camden and Westminster have high levels of engagement due to having several reviews indicating that these areas yield high demand for stays.
   
-* Hackney, Islington, Barnet, Harringay and Camden are revealed to be hotspots. 
+* Hackney, Islington, Westminster, Tower Hamlets, Southwark and Camden are revealed to be hotspots, so providing Airbnb accomodation is these boroughs is advised.
