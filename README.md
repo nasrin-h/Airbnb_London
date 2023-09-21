@@ -1,10 +1,11 @@
 # Airbnb_London
 
 ![image](https://github.com/nasrin-h/Airbnb_London/assets/136613366/4ef24755-0575-4f82-9926-2e987e94d091)
+https://public.tableau.com/views/AirbnbLondon_16940985517280/Dashboard1?:language=en-GB&:display_count=n&:origin=viz_share_link
 
 ### Data Information
 
-* Data source: Kaggle.com
+* Data source: Airbnb data regarding London in 2022. Source: Kaggle.com
 * Data Visualisation: Tableau
 
 ### Key Insights 
